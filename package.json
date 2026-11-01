@@ -1,0 +1,13 @@
+{
+  "name": "enterprise-knowledge-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev.mjs rag",
+    "dev:proxy": "node scripts/dev.mjs proxy",
+    "dev:all": "node scripts/dev.mjs all",
+    "check": "node scripts/check.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

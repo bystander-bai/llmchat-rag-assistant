@@ -1,0 +1,16 @@
+**/node_modules/
+**/.venv/
+**/__pycache__/
+**/dist/
+**/.env
+**/.env.*
+!**/.env.example
+**/*.log
+**/*.tsbuildinfo
+**/test-results/
+**/playwright-report/
+llmchat_Rag/db_md/
+llmchat_Rag/db/
+llmchat_Rag/data/md/
+artifacts/
+tmp/
